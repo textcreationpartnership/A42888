@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deemon of Marleborough, or, More news from VVilt-shire in a most exact account of the aparition of the ghost, or spirit of Edward Aven : published heretofore, but now much augmented, with many more discoveries, containing wonderful passages, from its first appearance there, to the 24th of Jan., 1674/5 : being the examination of Thomas Godard, the said Avens son in law, taken before the major, and other magistrates of that borough.</title>
+            <author>Godard, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42888</idno>
+            <idno type="STC">Wing G910</idno>
+            <idno type="STC">ESTC R39580</idno>
+            <idno type="EEBO-CITATION">18446572</idno>
+            <idno type="OCLC">ocm 18446572</idno>
+            <idno type="VID">107662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1633:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deemon of Marleborough, or, More news from VVilt-shire in a most exact account of the aparition of the ghost, or spirit of Edward Aven : published heretofore, but now much augmented, with many more discoveries, containing wonderful passages, from its first appearance there, to the 24th of Jan., 1674/5 : being the examination of Thomas Godard, the said Avens son in law, taken before the major, and other magistrates of that borough.</title>
+                  <author>Godard, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"I the underwritten did examine the above named Thomas Godord ..., [signed] William Houldbrook."</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions.</term>
+               <term>Ghosts --  England.</term>
+               <term>Spirits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107662:1" rendition="simple:additions"/>
+            <p>THE
+Deemon of Marleborough,
+<hi>OR,
+More News from</hi> VVilt-ſhire.
+In a moſt Exact Account of the Aparition of
+the Ghoſt, or Spirit of <hi>Edward Aven.</hi>
+            </p>
+            <p>Publiſhed heretofore, but now much Augmented, with many more
+Diſcoveries, containing wonderful Paſſages, from its firſt Ap<g ref="char:EOLhyphen"/>pearance
+there, to the <hi>24th.</hi> of <hi>Jan.</hi> 1674-75.</p>
+            <p>BEING
+The Examination of <hi>Thomas Godard,</hi> the ſaid
+<hi>Avens</hi> Son in Law, taken before the Major,
+and other Majeſtrates of that Borrough.</p>
+            <p>I the <g ref="char:V">Ʋ</g>nder-written did examine the Above Named
+<hi>Thomas Godord,</hi> who declared the whole matter,
+as it is herein related, and he doth affirm the ſame
+to be true in all Circumstances, and to my knowledge
+he is a Man of a good <g ref="char:V">Ʋ</g>nderstanding, Honest
+Life and Converſation.</p>
+            <p>VVitneſs my Hand,
+<hi>VVilliam Houldbrook.</hi>
+            </p>
+            <p>Printed in the year. 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:107662:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis is to Certifie you, that <hi>Edward Aven</hi>
+doth ſtill appear, and ſhews himſelf to ſe<g ref="char:EOLhyphen"/>veral
+people: Firſt to <hi>Elizabeth Hibertt,</hi>
+next to one Goodman <hi>Butten,</hi> otherwiſe <hi>VViat,</hi>
+next to <hi>M. Richard Coleman's</hi> maid of this Town,
+and in the ſame Cloaths, which he wore in his
+life time; as a long White-Crown'd hatt, Blew
+Cloaths, and White Stockings: All this Laſt
+Week he was ſeen.</p>
+            <closer>
+               <signed>William Houlbrook.</signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <pb n="1" facs="tcp:107662:2"/>
+            <head>A Relation of Tho. Godard, of Marle<g ref="char:EOLhyphen"/>borough,
+in the County of Wills, Weaver; made the
+<date>23. of November, 1674.</date>
+            </head>
+            <p>VVHo ſaith, that the ninth Day of <hi>November,</hi>
+about nine of the clock in the forenoon, be<g ref="char:EOLhyphen"/>ing
+<hi>Munday,</hi> he (going hence to <hi>Ogburn,</hi> Sr.
+<hi>Andrew</hi> in the ſame County, to one <hi>Iohn
+Hawks</hi> in the ſame place, Husbandman, with a piece of ſerge,
+which he had woven for the ſaid <hi>Iohn Howks</hi>) at a Stile neer
+<hi>Godres</hi> grounds in <hi>Ogburn,</hi> neer the High-way, there he
+ſaw the perfect apparition of <hi>Edward Aven,</hi> late of this town
+<hi>Glover</hi> (with whoſe Daughter this relatant married) in the
+ſhape of the ſame Cloaths, Hat, Shooes, and Stockings, that
+he uſually wote whiles he lived; who to this Relatants own
+knowledge dyed at <hi>Collingborn-Kingſton,</hi> in this County, on
+the eleventh of <hi>May</hi> laſt, and was by him, this relatant and
+others of his relations, brought thence, and buried here in St.
+<hi>Mary's</hi> Church-yard, the next day, <hi>viz.</hi> the twelfth Day of
+<hi>May;</hi> and he ſaith, that the Apparition to his ſeeming, leaned
+over a ſtile; and, when he was come near the ſaid ſtile, the ap<g ref="char:EOLhyphen"/>paration
+did ſpeak with an audable voice theſe words, <hi>viz.
+Are you afraid?</hi> To which the relatant anſwered, I am think<g ref="char:EOLhyphen"/>ing
+of one who is dead and buried, which you are like to: to
+which the Apparition anſwered with the like voice of <hi>Ed<g ref="char:EOLhyphen"/>ward
+Aven,</hi> I am he that you was thinking of, I am <hi>Edward
+Aven,</hi> your Father-in-Law, come near to me, and I will do
+you no harm, and this relatant replied, <hi>viz.</hi> I truſt in him,
+who hath bought my ſoul with his precious blood, you ſhall
+do me no harm, and the apparition ſaid; How ſtands caſes at
+home, and the relatant ſaid, what caſes? and the apparition
+<pb facs="tcp:107662:3"/>
+ſaid, How do <hi>Will</hi> and <hi>Mary,</hi> meaning this relatants Wife
+and her Brother, which is the ſaid <hi>Avens</hi> Son and Daughter,
+then the Apparition ſaid, What? Taylor is dead, meaning as
+this relatant ſuppoſed, one <hi>Iohn Taylor</hi> of <hi>London,</hi> Shooma<g ref="char:EOLhyphen"/>ker,
+who had maried <hi>Sarah</hi> another of the ſaid <hi>Avens</hi> daugh<g ref="char:EOLhyphen"/>ters,
+which ſaid <hi>Taylor</hi> as this relatant hath heard, dyed about
+<hi>Michaelmas</hi> laſt paſt; Then the Apparition held out his hand,
+and in it as this relatant ſuppoſed money about twenty or 30
+ſhillings in ſilver, and it ſaid, with the like audable voice, take
+this mony and ſend it <hi>Sarah,</hi> for I ſhut up my bowels of com<g ref="char:EOLhyphen"/>paſſion
+towards her in the time of my life, and now here is
+ſome money for her, and further ſaid, Mary <hi>is troubled for me,
+but tell her that God hath ſhewed mercy to me beyond my deſarts,</hi>
+and this relatant ſaid, upon offering of the ſaid money to
+him, he replyed to the ſaid Apparition; In the name of Jeſus
+Chriſt I refuſe all ſuch moneys. Then it ſpoke theſe words; <hi>I
+perceive you are afraid, I will meet you ſome other time,</hi> then im<g ref="char:EOLhyphen"/>mediately
+as this relatant perceived it went up the Lane;
+whereupon this relatant went over the ſtile as aforeſaid, be<g ref="char:EOLhyphen"/>ing
+in much fear, and for that time ſaw him no more: And
+this relatant further ſaith, that he being at work at his Loom
+in his own houſe about ſeven a clock in the Evening of the
+ſame Day the ſaid Apparation lift up the lid of his window,
+and finding it to be the ſame apparition that he had met the
+ſame Day at <hi>Ogborn</hi> ſtile as aforeſaid being in much fear, run
+out of his ſhop, and ſaw no more of it that night, but ſaith;
+that the next night after this relatant went forth into his back
+ſide about the ſame hour with a candle in his hand to make
+water, and as he was ſo doing the like Apparation came
+round his Wood houſe, and this relatant alſo being in a fear
+and his Candle waxing out, he run into his houſe, and ſaid he
+ſaw it no more that night, but ſaith further, that on <hi>Thurſday</hi>
+the <hi>12th.</hi> of this inſtant <hi>November,</hi> as this relatant was rid<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:107662:3"/>
+homeward from Sir <hi>Bolſtrock VVhitelocks</hi> houſe, in <hi>Chilton</hi>
+Lodge in this County about 3 or 4 a clock in the Afternoon
+in the bottom neer <hi>Ramsberry</hi> Manner-houſe, as he was rid<g ref="char:EOLhyphen"/>ing
+down the hill there to his apprehenſion he ſaw a Hare
+running out of the old Park, there a thwart in the highway in<g ref="char:EOLhyphen"/>to
+the Cops, at which the relatants horſe afrighted, and rared
+on his hinder legs, overthrew into the dirt, and as ſoon as he
+could recover on his legs, he ſaw the like apparition ſtand<g ref="char:EOLhyphen"/>ing
+about 8 foot from him, directly in the way before him, &amp;
+ſaid with the like voice. Thomas <hi>you have tarried long,</hi> and
+then ſaid to this relatant, <hi>Thomas bid</hi> Will Aven <hi>take the
+ſword that he had of me which is now in his houſe, and carry it to
+the wood as we go to</hi> Alton <hi>to the upper end of the wood, which
+lyeth by the Way ſide, for with that ſword I did wrong above</hi> 30
+<hi>years ago, and he never proſpered ſince he has had the ſword, and
+bid</hi> Will Aven <hi>give his Siſter</hi> Sarah 20 <hi>ſhillings of the money
+which he had of me, and do you talk with</hi> Edward Laurence, <hi>for
+I borrowed 20 ſhillings of him ſeveral years ago, and did ſay that
+I had payd him it when I did not pay it him, and I cannot be at
+reſt till the 20s. be paid, and I would deſire you to pay him the
+20s. out of the money which you had of</hi> James Elliot <hi>at 2 pay<g ref="char:EOLhyphen"/>ments.</hi>
+Which money he this relatant affirmeth was 5 Pound,
+which he the ſaid <hi>Iames Elliot</hi> a Baker of this Town owed
+him the ſaid <hi>Aven</hi> whiles he lived upon bond, which money
+this relatant received from the ſaid <hi>Iames Elliot</hi> ſince <hi>Micha<g ref="char:EOLhyphen"/>elmas</hi>
+laſt at a payments, <hi>viz,</hi> 35 ſhillings at one time, &amp; 35
+ſhillings at another, and then the Apparition further ſaid to
+this relatant. Tell <hi>Margret,</hi> meaning as this relatant confer<g ref="char:EOLhyphen"/>eth
+it might be, the ſaid Avens <hi>wife, that</hi> I <hi>would deſire her to
+deliver the Kettel which</hi> I <hi>gave to little</hi> Sarah Taylor <hi>to the lit<g ref="char:EOLhyphen"/>tle
+child, or to anyone that ſhe will intruſt for it, but if ſhe will not
+ſpeak to</hi> Edward Laurence <hi>to perſwade her, but if ſhe will not,
+then tell her I will ſee her ſuddenly,</hi> and ſaid, <hi>ſee that this be done
+<pb n="6" facs="tcp:107662:4"/>
+within twelve months and a day after my Death, and peace be with
+you;</hi> and ſo it went away over the rail into the Wood there,
+as any man may go over a ſtile, to this relatant's apprehenſi<g ref="char:EOLhyphen"/>on;
+and ſo this relatant ſaw it no more at that time; &amp; this re<g ref="char:EOLhyphen"/>latant
+further ſaith, that accordingly he has paid the ſaid <hi>Ed<g ref="char:EOLhyphen"/>ward
+Lawrence</hi> the 20s. who alſo was here preſent, affirmeth,
+that he had lent the ſaid <hi>Aven</hi> 20 s. above 20 y. ago, and that
+none knew thereof but the ſaid <hi>Lawrence</hi> and his Wife; and
+the ſaid <hi>Aven</hi> and his Wife; and this relatant further ſaith,
+that the laſt night he making relation of the ſaid Apparition
+and paſſages unto <hi>Chriſtopher Lipperd</hi> now Mayjor of this
+Town and others he was adviſed by them to order <hi>VVilliam
+Aven</hi> to carry the ſaid ſword to the ſaid <hi>Copps</hi> neer <hi>Alton,</hi> &amp;
+that this relatant ſhould go with him thither; whereupon the
+relatant &amp; the ſaid <hi>Aven</hi> did reſolve to go as on Tueſday
+following, which was on the morrow, and ſaith, that he this
+relatant and his Brother-in-law, as he affirmeth, were both ve<g ref="char:EOLhyphen"/>ry
+much troubled in mind to ſee, that they could not ſleep
+until they were both reſolved to carry the ſword to the ſaid
+<hi>Copps</hi> on that day; and accordingly both did, and ſaith; that
+both of them comming to the ſaid <hi>Cops</hi> about 9 of the clock
+in the morning, the ſaid <hi>VVilliam Aven</hi> took the ſword, and
+laid it down neer the place, as this relatant was directed by
+the ſaid Apparition; and both of them turning about to come
+away from thence, this relatant looking back ſaw the Appari<g ref="char:EOLhyphen"/>tion
+in like habit of cloth as aforeſaid; which when this rela<g ref="char:EOLhyphen"/>tant
+diſcovered, he ſaid to his brother-in-Law, <hi>Here is the Ap<g ref="char:EOLhyphen"/>parition
+of Father;</hi> but he ſaid, I <hi>ſee it not;</hi> ſo this relatant falling
+on his knees, praying to God to preſerve them both, asking
+his ſaid Brother-in-law, whether he did ſee it, who ſaid, <hi>No;</hi>
+and then he ſaid, <hi>Lord open his eyes that he may ſee it;</hi> who then
+replyed, <hi>Lord grant that</hi> I <hi>may not ſee it if it be thy bleſſed will;</hi>
+&amp; then the Apparition beckned his hand to him to come to
+<pb n="7" facs="tcp:107662:4"/>
+it, &amp; this relatant then ſaid, <hi>In the name of the Father, Sn, and
+Holy Ghoſt what would you have me to do?</hi> and the Apparition
+ſaid to this relatant. Thomas, <hi>take up the ſword and follow me,</hi>
+&amp; this relatant ſaid, <hi>Should both of us come, or one of us,</hi> to which
+it ſaid, Thomas <hi>do you take up the Sword;</hi> ſo this relatant took
+up the ſword, &amp; the Apparition went on before him further
+into the <hi>Copps-</hi>Wood about 20 lugs; &amp; this relatant then fol<g ref="char:EOLhyphen"/>lowing
+it, the Apparition turning back, he this relatant ſtood
+about a lug and a half from it, his ſaid brother ſtanding neer
+the place, where he firſt laid down the ſword, &amp; this relatant
+laid down the ſword upon the ground, &amp; ſaw ſomething like
+a Maſtiff-Dog of a brown colour, and the Apparition wav<g ref="char:EOLhyphen"/>ing
+towards this relatant, he ſtepped back about 3 ſteps, &amp;
+the Apparition ſaid, <hi>Do not be afraid</hi> Thomas, <hi>for</hi> I <hi>have a per<g ref="char:EOLhyphen"/>miſſion
+for to reveal things unto thee, but have a Commiſſion not
+to touch you;</hi> &amp; when it had taken up the ſword, &amp; went back
+to the place, at which before it ſtood, when this relatant ſaw
+the Maſtiff-Dog which as before, the Apparition pointed
+the top of the ſword into the ground, &amp; ſaid, <hi>In this place ly<g ref="char:EOLhyphen"/>eth
+buried the bones of him that</hi> I <hi>murthered in the year 1635.
+which are now rotten and turned unto duſt,</hi> Whereupon the re<g ref="char:EOLhyphen"/>latant
+ſaid, I adjure in the name of the Father, Son, &amp; Holy
+Ghoſt, wherefore did you this murther; and it ſaid, I <hi>took mo<g ref="char:EOLhyphen"/>ney
+from him, and he contended with me for to keep it, and</hi> I <hi>was
+too hard for him, and ſo</hi> I <hi>murthered him with his own ſword,
+which is this,</hi> and this relatant asked it, who was confederate
+with him in this murther, this relatant being directed by the
+ſaid Mayjor ſo to do; to which the Apparition ſaid, None:
+but my ſelf; &amp; this relatant ſaid, what would you have me to
+do in this buſineſs or thing? &amp; the Apparition ſaid, this, that
+the world may know, that I murthered a man, &amp; buried him
+in this place in the year 1655. Then the Apparition layed
+down the Sword immediately upon the bare Ground;
+<pb n="8" facs="tcp:107662:5"/>
+whereon grew nothing, but appeared to this Relatant a naked
+piece of ground, like a grave ſunk in, and then the Appari<g ref="char:EOLhyphen"/>on,
+ruſhing further into the ſaid Copps, Vaniſhed out of his
+ſight, and he ſaw it no more; whereupon this Relatant, and
+his ſaid Brother-in-Law, <hi>Will. Aven,</hi> leaving the Sword, and
+both coming away, this Relatant's Brother-in-Law, <hi>VVill.
+Aven,</hi> aſſerted, that he heard and underſtood what he ſaid,
+and heard ſome other Voyce, diſtinctly from this Relatant's,
+but could not underſtand a word of it, and he ſaw no Appa<g ref="char:EOLhyphen"/>rition
+at all, as the ſaid <hi>Will. Aven,</hi> affirmeth, All which this
+Relatant affirmeth, and doth atteſt it to be true under his
+hand the Day and Year above-ſaid, and ſhall be ready to te<g ref="char:EOLhyphen"/>ſtifie
+the ſame upon Oath, when he ſhall be required:</p>
+            <closer>
+               <signed>VVitneſs his Hand,
+Tho. Goddard.
+<list>
+                     <item>In the preſence of Mr. <hi>Chriſtopher Lipyard,</hi> Major:</item>
+                     <item>
+                        <hi>And</hi> Joſhua Sethcenerel Minister of St. <hi>Peter's</hi> in Marlebo<g ref="char:EOLhyphen"/>rough.</item>
+                     <item>And Maſter <hi>Rolf Bayly,</hi> Town-Clark of the ſaid Borough.</item>
+                     <item>And many other perſons of credit.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
